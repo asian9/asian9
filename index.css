@@ -1,9 +1,11 @@
 header{
     color: #a9a9a9;
+    text-align: center;
 }
 body {
     background-color: #f4f4f4;
 }
 body.header{
-    color: #a9a9a9;    
+    color: #a9a9a9;
+    text-align: center;
 }
