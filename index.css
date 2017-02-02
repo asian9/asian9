@@ -1,3 +1,9 @@
+header{
+    color: #a9a9a9;
+}
 body {
     background-color: #f4f4f4;
+}
+body.header{
+    color: #a9a9a9;    
 }
